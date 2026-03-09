@@ -1,0 +1,9 @@
+date,category,value,product,sales,region
+2024-01-01,Electronics,100,Phone,500,North
+2024-01-02,Furniture,85,Chair,320,South
+2024-01-03,Grocery,40,Rice,210,East
+2024-01-04,Clothing,65,Shirt,275,West
+2024-01-05,Electronics,120,Laptop,620,North
+2024-01-06,Grocery,35,Milk,190,South
+2024-01-07,Furniture,95,Table,340,East
+2024-01-08,Clothing,70,Jeans,290,West
